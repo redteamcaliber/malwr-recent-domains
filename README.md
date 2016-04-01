@@ -1,1 +1,9 @@
-scrapes recent domains from malwr.com
+##Requirements
+* Python 2.7
+* bs4
+* requests
+
+##Description
+* Scrapes recent domains from malwr.com
+
+

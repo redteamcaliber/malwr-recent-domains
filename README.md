@@ -4,6 +4,6 @@
 * requests
 
 ##Description
-* Scrapes recent domains from malwr.com
+* Scrapes "recent domains" from malwr.com's main page
 
 

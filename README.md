@@ -9,3 +9,9 @@
 ##SSL Errors
 If you receive "InsecurePlatformWarning" error install requests[security] package by running `pip install requests[security]`
 
+This will install three additional packages:
+
+* pyOpenSSL
+* ndg-httpsclient
+* pyasn1
+
